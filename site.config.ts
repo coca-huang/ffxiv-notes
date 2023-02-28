@@ -2,23 +2,23 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'a331ae45fa6f484e874accfb7152318c',
+  rootNotionPageId: '326b1248ac9e41f38b4e129fc8ba7bc2',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Zhanbo Huang',
-  domain: 'me.zbhuang.com',
-  author: 'Zhanbo Huang',
+  name: "Coca's FFXIV Notes",
+  domain: 'ffxiv.mcoca.dev',
+  author: 'Coca',
 
   // open graph metadata (optional)
-  description: 'Blogs of Zhanbo Huang',
+  description: 'Some Record of My FFXIV Journey',
 
   // social usernames (optional)
-  twitter: 'misakicoca',
-  github: 'misakicoca',
+  // twitter: 'misakicoca',
+  // github: 'misakicoca',
   // linkedin: 'fisch2',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`

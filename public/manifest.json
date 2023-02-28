@@ -1,8 +1,6 @@
 {
-  "name": "Zhanbo Huang",
-  "short_name": "Huang",
-  "name": "Zhanbo Huang's Blog",
-  "short_name": "Huang's Blog",
+  "name": "Coca's FFXIV Notes",
+  "short_name": "Coca's Notes",
   "icons": [
     {
       "src": "/favicon.png",
