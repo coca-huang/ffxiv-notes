@@ -9,9 +9,9 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: "Coca's FFXIV Notes",
+  name: "蛋卷酥のFFXIV手帳",
   domain: 'ffxiv.mcoca.dev',
-  author: 'Coca',
+  author: '蛋卷酥',
 
   // open graph metadata (optional)
   description: 'Some Record of My FFXIV Journey',
